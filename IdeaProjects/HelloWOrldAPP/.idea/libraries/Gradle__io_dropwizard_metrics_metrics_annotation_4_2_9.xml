@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.dropwizard.metrics:metrics-annotation:4.2.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-annotation/4.2.9/888de9ba2d846b153f3e7dabbeaa71221b743d4a/metrics-annotation-4.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-annotation/4.2.9/6084b5dc9ad77ed9986da02d8ddd760bc6250860/metrics-annotation-4.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

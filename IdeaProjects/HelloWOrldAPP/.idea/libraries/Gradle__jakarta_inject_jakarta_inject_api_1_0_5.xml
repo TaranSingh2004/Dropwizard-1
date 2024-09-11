@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: jakarta.inject:jakarta.inject-api:1.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/1.0.5/a14342a10456b134f361c258698d568107a1bc4e/jakarta.inject-api-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/1.0.5/71f9f4b8470832bcd0b4abb5a222e6271a77658c/jakarta.inject-api-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

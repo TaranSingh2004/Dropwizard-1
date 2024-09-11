@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fasterxml.jackson.module:jackson-module-blackbird:2.13.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-blackbird/2.13.2/4c40a2f8388120fe5d5f37eb4b72903bb97ddfe1/jackson-module-blackbird-2.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-blackbird/2.13.2/d5b8e7dbe3be257038d22b1122b1810872013320/jackson-module-blackbird-2.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

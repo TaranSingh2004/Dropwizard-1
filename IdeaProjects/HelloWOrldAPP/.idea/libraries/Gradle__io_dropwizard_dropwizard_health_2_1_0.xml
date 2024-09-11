@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.dropwizard:dropwizard-health:2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-health/2.1.0/4c7eb1f091644b67289d79f60241f8c43274a024/dropwizard-health-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-health/2.1.0/62eb2f726d17190a1721cabf15fee38abb5a6943/dropwizard-health-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.dropwizard.metrics:metrics-jersey2:4.2.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jersey2/4.2.9/15617f2336d0ec3ca29bb08f89889d25509d9401/metrics-jersey2-4.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jersey2/4.2.9/20b71dbde0f1f932da84d298dfc5541cf4342b38/metrics-jersey2-4.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
